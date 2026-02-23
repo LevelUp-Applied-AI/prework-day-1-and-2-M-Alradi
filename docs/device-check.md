@@ -11,10 +11,10 @@
 | Specification | Your value |
 |---------------|------------|
 | Operating System | ( Windows 10 ) |
-| OS Build / Version | |
+| OS Build / Version | ( Build 19045 ) |
 | RAM | (12 GB) |
 | CPU Model | (Intel Core i5-12700H @ 2.5 GHz (7th Gen)) |
-| CPU Cores | |
+| CPU Cores | (2 cores) |
 | Free Disk Space | (29.7 GB free) |
 | Internet Speed (Download) | (8.90 — Mbps) |
 
