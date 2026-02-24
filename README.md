@@ -31,7 +31,7 @@ Configure the pull request:
 
 ## About
 
-[One paragraph: who you are and what this repository is for.]
+[My name is Malak Fadi Alradi, a 24-year-old Machine Learning Engineer with a Bachelor’s degree in Intelligent Systems Engineering and over 1.5 years of hands-on experience in AI, NLP, automation, and deploying real-world AI solutions. I am deeply passionate about artificial intelligence, creative problem-solving, and working with computers. This repository documents my practice with the Git Bash terminal, including creating directories, modifying files, and pushing changes to GitHub as commits with clear, well-structured messages.]
 
 ## Setup
 
