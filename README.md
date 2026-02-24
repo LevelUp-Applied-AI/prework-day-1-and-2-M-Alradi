@@ -28,3 +28,23 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+
+## About
+
+[My name is Malak Fadi Alradi, a 24-year-old Machine Learning Engineer with a Bachelor’s degree in Intelligent Systems Engineering and over 1.5 years of hands-on experience in AI, NLP, automation, and deploying real-world AI solutions. I am deeply passionate about artificial intelligence, creative problem-solving, and working with computers. This repository documents my practice with the Git Bash terminal, including creating directories, modifying files, and pushing changes to GitHub as commits with clear, well-structured messages.]
+
+## Setup
+
+```bash
+git clone https://github.com/LevelUp-Applied-AI/<your-username>-prework.git
+cd <your-username>-prework
+
+Save the file when done.
+
+### 4. Commit each change separately
+
+Stage and commit `docs/git-setup.md` first:
+
+```bash
+git add docs/git-setup.md
+git commit -m "Add docs/git-setup.md with configured user identity"
